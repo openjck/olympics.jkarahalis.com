@@ -1,0 +1,12 @@
+/*** Changes to imagefields on the "Learner" page. ***/
+
+/*
+ Display the first picture (currently and probably permanently the photo of the
+ lead professor) above all other photos. This happened by accident at first,
+ but Dad liked it so we stuck with it.
+ */
+#node-8 .field-field-images .field-item:first-child {
+  display: block;
+  clear: both;
+  float: none;
+}

@@ -1,0 +1,5 @@
+/*** Changes to imagefields on the "Hobbies" page. ***/
+
+#node-5 .field-field-images .field-item.odd {
+  clear: left;
+}

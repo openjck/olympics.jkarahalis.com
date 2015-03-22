@@ -1,0 +1,15 @@
+/*** Changes to generic filefield items. ***/
+
+
+/* Make sure all filefield listings (e.g., files images) clear both. */
+/* Give listings a top margin, but no other margins. */
+div.field-type-filefield {
+  clear: both;
+  margin: 1em 0 0 0;
+  height: auto; /* Internet Explorer */
+}
+
+/* Give listings at top of page a bottom margin, but no top margin. */
+div.field-type-filefield:first-child {
+  margin: 0 0 3em 0;
+}
