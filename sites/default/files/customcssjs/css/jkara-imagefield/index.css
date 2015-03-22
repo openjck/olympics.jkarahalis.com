@@ -1,0 +1,14 @@
+/*** Changes to imagefield "galleries". ***/
+
+/* Imagefield "galleries" should float left. */
+.field-field-images .field-item {
+  float: left;
+  height: 150;  /* ImageCache height */
+  margin: 5px;
+  text-align: center;
+}
+
+/* Make image container divs 300px (max image height). These divs contain only images, and so have no natural height. */
+.field-field-images {
+  height: 150;
+}
