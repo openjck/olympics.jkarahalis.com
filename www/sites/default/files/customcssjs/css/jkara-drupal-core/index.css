@@ -1,0 +1,8 @@
+/*** Miscellaneous changes to Drupal core css. ***/
+
+
+/* Don't allow tbody to have it's own top border (which, by default, is a
+   different color). */
+tbody {
+  border-top: none;
+}
