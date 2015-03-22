@@ -1,8 +1,0 @@
-/*** Changes related to the site_map module. ***/
-
-
-/* Hide the menu name that is usually displayed above the Site Map listing
-   (e.g., "Primary Links"). */
-.sitemap-menu h2 {
-  display: none;
-}

@@ -37,7 +37,7 @@ Drupal.jsEnabled = document.getElementsByTagName && document.createElement && do
  * object as follows:
  * @code
  *    Drupal.behaviors.behaviorName = function () {
- *      .
+ *      ...
  *    };
  * @endcode
  *
@@ -189,7 +189,7 @@ Drupal.formatPlural = function(count, singular, plural, args) {
  *
  * @param func
  *   The name of the theme function to call.
- * @param .
+ * @param ...
  *   Additional arguments to pass along to the theme function.
  * @return
  *   Any data the theme function returns. This could be a plain HTML string,

@@ -36,7 +36,7 @@
 }
 
 .TB_overlayMacFFBGHack {
-  background: url(./macffbghack.png) repeat;
+  background: url(macffbghack.png) repeat;
 }
 .TB_overlayBG {
   background-color: #000;
@@ -118,7 +118,7 @@
 
 #TB_load {
   position: fixed;
-  background: url(./loading_animation.gif);
+  background: url(loading_animation.gif);
   display: none;
   height: 13px;
   width: 208px;
