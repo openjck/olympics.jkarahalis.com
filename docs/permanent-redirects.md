@@ -13,8 +13,8 @@ the corresponding *To* URLs.
     </thead>
     <tbody>
         <tr>
-            <td><a href="http://olympics.jkarahalis.com">http://olympics.jkarahalis.com</a></td>
-            <td><a href="https://olympics.jkarahalis.com/">https://olympics.jkarahalis.com/</a></td>
+            <td>http://olympics.jkarahalis.com*</td>
+            <td>https://olympics.jkarahalis.com[match]</td>
         </tr>
     </tbody>
 </table>
