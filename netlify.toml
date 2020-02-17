@@ -21,6 +21,8 @@
     status = 301
     force = true
 
+[[redirects]]
+
     from = "https://goofy-yalow-a44a3c.netlify.app/*"
     to = "https://olympics.jkarahalis.com/:splat"
     status = 301
